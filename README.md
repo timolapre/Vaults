@@ -1,4 +1,3 @@
-<img src="logo.svg" alt="**" height="160px">
 
 # Vaults
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-yellow)](https://**.gitbook.io/**-finance/welcome/master)
